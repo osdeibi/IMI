@@ -1,0 +1,11 @@
+* TopStatsActivity:
+	+ Implementar el long click listener.
+	+ Implementar que al volver de haber pulsado un producto, vuelva a la página de
+	  estadísticas y no a la lista principal.
+
+* Actividad/Dialog de settings.
+	+ (Opcional) Importar/exportar a CSV (mediante share).
+
+DOING:
+* Adaptar los layouts.
+	+ Probar distintas configuraciones de pantalla.
