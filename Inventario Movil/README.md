@@ -1,4 +1,4 @@
-my-little-business
+IMI   
 ==================
 
-Android app to manage the inventory of a small business.
+sqlite
